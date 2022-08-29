@@ -3,9 +3,9 @@
 
 int main(int argc, char **argv) {
 
-printf("Alex Canfield!\n");
-printf("Computer Science\n");
-
-return 0;
+    printf("Hello, my name is Alex Canfield!\n");
+    printf("Major is Computer Science\n");
+    printf("Minor is Math\n");
+    return 0;
 
 }
